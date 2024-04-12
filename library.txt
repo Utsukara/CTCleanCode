@@ -1,0 +1,20 @@
+Pride and Prejudice, Jane Austen, Classic, Available
+The Adventures of Sherlock Holmes, Arthur Conan Doyle, Mystery, Available
+Frankenstein, Mary Shelley, Gothic, Available
+Dracula, Bram Stoker, Gothic, Available
+Little Women, Louisa May Alcott, Classic, Available
+The Hitchhiker's Guide to the Galaxy, Douglas Adams, Science Fiction, Available
+The Great Gatsby, F. Scott Fitzgerald, Classic, Available
+The Lord of the Rings, J.R.R. Tolkien, High Fantasy, Available
+1984, George Orwell, Dystopian, Available
+To Kill a Mockingbird, Harper Lee, Classic, Available
+The Picture of Dorian Gray, Oscar Wilde, Philosophical Fiction, Available
+Jane Eyre, Charlotte Brontë, Classic, Available
+Animal Farm, George Orwell, Allegory, Available
+The Catcher in the Rye, J.D. Salinger, Coming-of-Age, Available
+Invisible Man, Ralph Ellison, Social Commentary, Available
+The Handmaid's Tale, Margaret Atwood, Dystopian, Available
+The Time Traveler's Wife, Audrey Niffenegger, Science Fiction, Available
+The Martian, Andy Weir, Science Fiction, Available
+The Book Thief, Markus Zusak, Historical Fiction, Available
+Slaughterhouse-Five, Kurt Vonnegut, Anti-War, Available
